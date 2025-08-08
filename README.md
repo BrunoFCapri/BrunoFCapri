@@ -7,7 +7,7 @@
   <p style="font-size:1.2rem;">Estudiante de la carrera Ingenieria en Sistemas en la UAP.</p>
 
   <p>
-    ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador, apasionado por IoT  y simpre adentrandome en nuevos desafios para estar en la banguarda de la ignovacion sin olvidar de crear codigo limpio y legible con un enfoque de echo para durar
+    ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador, apasionado por IoT  y simpre adentrandome en nuevos desafios para estar en la banguarda de la ignovacion sin olvidar de crear codigo limpio y legible con un enfoque de echo para durar. Suelo subir solo mis codigos una ves estan terminados a git debido a que tengo mi propio self-hosting de git con una rasberry.
   </p>
 
   <p>
