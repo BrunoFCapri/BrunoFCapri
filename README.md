@@ -82,8 +82,9 @@ En mi juventud trabaje como profesor de robotica y tuve la oportunidad desde pod
   <h3>Sistemas y Herramientas de Productividad</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant">
 </div>
 
 <div align="center">
@@ -101,6 +102,7 @@ En mi juventud trabaje como profesor de robotica y tuve la oportunidad desde pod
 <div align="center">
   <h3>Aprendizaje</h3>
   <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
+  <img src="https://a11ybadges.com/badge?logo=ibm" alt="Curso de Computación Quantica">
 </div>
 
 ---
