@@ -102,13 +102,19 @@ En mi juventud trabaje como profesor de robotica y tuve la oportunidad desde pod
 <div align="center">
   <h3>Aprendizaje</h3>
   <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
+    <p>
+    Practicas extracurriculares
+  </p>
   <img src="https://a11ybadges.com/badge?logo=ibm" alt="Curso de Computación Quantica">
+  <p>
+    Curso de computacion Quantica en IBM
+  </p>
+
+  <p>
+    Estudiante de Ingenieria en Sistemas UAP (Universidad Adventista del Plata)
+  </p>
 </div>
 
 ---
 
-<h2 align="center">Estadísticas de GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Lenguajes">
-</p>
+
