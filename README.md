@@ -24,13 +24,13 @@ En mi experiencia, fui profesor de robótica, donde tuve la oportunidad de lider
   <a href="https://tu-sitio-web.com" target="_blank">
     <img src="https://img.shields.io/badge/Sitio_Web-Enlace-informational?style=for-the-badge&logo=WorldWideWeb&logoColor=white&color=black" alt="Sitio Web">
   </a>
-  <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-fabián-capri-605022373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:tu-correo@ejemplo.com" target="_blank">
+  <a href="mailto:bruno.fabian.capri.oficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/tu-usuario" target="_blank">
+  <a href="https://github.com/tu-usuario](https://github.com/BrunoFCapri/BrunoFCapri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Perfil-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
