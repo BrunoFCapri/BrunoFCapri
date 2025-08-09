@@ -97,4 +97,6 @@ En mi experiencia, fui profesor de robótica, donde tuve la oportunidad de lider
   <a href="https://exercism.org/" target="_blank">
     <img src="https://img.shields.io/badge/Prácticas-Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Prácticas Extracurriculares Exercism">
   </a>
+
+  <h3 align="center">Y demas charlas y talleres de ciberseguridad e inteligencia artificial entre muchas otras</h3>
 </div>
