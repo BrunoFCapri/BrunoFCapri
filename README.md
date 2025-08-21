@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/tu-id-de-usuario?v=4](https://github.com/BrunoFCapri/assets/blob/main/fotoGit.jpg?raw=true)" alt="Foto de perfil de Bruno" width="150" height="150" style="border-radius:50%;">
-  <h1 align="center" style="color:#007BFF;">Hola, soy Bruno👋</h1>
-  <h3 align="center">Estudiante de Ingeniería en Sistemas en la UAP</h3>
+  <img src="https://github.com/BrunoFCapri/assets/blob/main/fotoGit.jpg?raw=true" alt="Foto de perfil de Bruno" width="150" height="150" style="border-radius:50%;">
+  <h1 align="center" style="color:#007BFF;">Hola, soy Bruno👋</h1>
+  <h3 align="center">Estudiante de Ingeniería en Sistemas en la UAP</h3>
 </div>
-
 ---
 
 ### Acerca de mí 🚀
