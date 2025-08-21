@@ -3,7 +3,7 @@
   <h1 align="center" style="color:#007BFF;">Hola, soy Bruno👋</h1>
   <h3 align="center">Estudiante de Ingeniería en Sistemas en la UAP</h3>
 </div>
----
+
 
 ### Acerca de mí 🚀
 
