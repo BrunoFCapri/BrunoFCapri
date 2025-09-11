@@ -20,9 +20,6 @@ En mi experiencia, fui profesor de robótica, donde tuve la oportunidad de lider
 ### Conéctate conmigo 🤝
 
 <div align="center">
-  <a href="https://tu-sitio-web.com" target="_blank">
-    <img src="https://img.shields.io/badge/Sitio_Web-Enlace-informational?style=for-the-badge&logo=WorldWideWeb&logoColor=white&color=black" alt="Sitio Web">
-  </a>
   <a href="https://www.linkedin.com/in/bruno-fabián-capri-605022373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
