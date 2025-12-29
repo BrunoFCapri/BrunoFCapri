@@ -9,7 +9,7 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador apasionado por el **Internet de las Cosas (IoT)** y me encanta enfrentar nuevos desafíos para mantenerme a la vanguardia de la innovación. Me esfuerzo por crear código **limpio, legible y duradero**.
 
-Actualmente, estoy trabajando en un proyecto de **estación meteorológica desde cero** y profundizando mis conocimientos en **manejo de redes y protocolos**.
+Actualmente, estoy trabajando en desarrollar una distribución basada en Debian para mi rasberry pi.
 
 Me entusiasma colaborar en proyectos de código abierto. Si tienes una idea o un proyecto interesante, ¡no dudes en contactarme! Contribuí en proyectos como **Smart Miata**, un sistema operativo modular y de código abierto para autos que integra robótica, sensores e interfaces.
 
