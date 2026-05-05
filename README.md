@@ -28,9 +28,6 @@ En mi experiencia, fui profesor de robótica, donde tuve la oportunidad de lider
   <a href="https://github.com/BrunoFCapri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Perfil-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://clima-zero.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Web ecosistema IoT propio-Ver_Web-informational?style=for-the-badge&logo=vercel&logoColor=white" alt="Web ecosistema IoT propio">
-  </a>
 </div>
 
 
