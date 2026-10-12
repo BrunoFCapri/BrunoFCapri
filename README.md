@@ -12,9 +12,10 @@ Actualmente me desempeño como Arquitecto de Software y DevOps en la Planta Pota
 
 
 ### Proyectos Destacados ⚙️
-*   **V-NYCH:** Ecosistema *Local-First* autoalojado de productividad (notas, calendario, tareas). Arquitectura en Rust, Go y PostgreSQL contenerizada en Docker.
-*   **CapiOS:** Distribución Linux custom basada en Debian, optimizada a nivel kernel para Raspberry Pi 5.
-*   **Atlas (En desarrollo):** Ecosistema IA autónomo para domótica integrado con Home Assistant.
+*   **RelojF1:** Display de reloj con estética de volante de F1 en ESP32-S3 AMOLED. Renderizado a bajo nivel, framebuffer optimizado en PSRAM, perillas físicas, gestión de memoria LVGL y síntesis de audio de motor por I2S.
+*   **V-NYCH:** Ecosistema *Local-First* autoalojado de productividad (notas, calendario, tareas) con formato binario custom `.vny2`. Arquitectura en Rust, Go y PostgreSQL contenerizada en Docker.
+*   **CapiOS:** Distribución Linux custom basada en Debian, optimizada a nivel kernel y con estética propia para Raspberry Pi 5.
+*   **Atlas:** Ecosistema IA autónomo para domótica integrado con Home Assistant.
 *   **Smart Miata:** Colaborador en el desarrollo de un OS modular open-source para vehículos (robótica, sensores y telemetría).
 
 ---
